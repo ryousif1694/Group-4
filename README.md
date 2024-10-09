@@ -3,4 +3,10 @@ Group 4 Project
 
 Blossom Theaters
 
-Software Requirements Specifications
+Version 1
+Software Requirements Specification
+
+Version 2
+Software Design Specification
+
+
