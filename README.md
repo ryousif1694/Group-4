@@ -1,5 +1,5 @@
 # Group-4
-Group 4 Project 
+Group 4 Project
 
 Blossom Theaters
 
